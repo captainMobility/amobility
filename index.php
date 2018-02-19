@@ -10,17 +10,15 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Aria Mobility</title>
-  <meta name="description" content="">
   <meta property="og:locale" content="fr_FR" />
   <meta property="og:title" content="Aria Mobility" />
   <meta property="og:url" content="http://www.aria-mobolity.fr/" />
   <meta property="og:type" content="website" />
   <meta property="og:description" content="" />
   <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-  <meta name="copyright" content="© 2017 Evenir. All rights reserved." />
+  <meta name="copyright" content="© 2018 Aria-mobility. Tous droits réservés." />
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
