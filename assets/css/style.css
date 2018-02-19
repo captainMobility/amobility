@@ -595,8 +595,7 @@ textarea::-ms-input-placeholder
 /*For Home Section*/
 .home{
     height: 872px;
-    /* background:url(../images/Renault-Zoe-Home.jpg) no-repeat center center; */
-    background: url(http://www.evenir.energy/fr/assets/images/main-header.jpg);
+    background: url(../images//chargeCar.jpg);
     color: #000;
     background-size: cover;
     -webkit-background-size: cover;

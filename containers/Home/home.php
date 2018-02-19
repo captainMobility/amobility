@@ -6,7 +6,7 @@
         <div class="home-wrapper">
           <div class="col-md-10 col-md-offset-1">
             <div class="home-content">
-              <h1>Votre installation à partir de 1200€ HT</h1>
+              <h1>Votre installation de borne de recharge à partir de 1200€ HT</h1>
               <div class="row">
                 <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
                   <div class="home-contact">
@@ -87,7 +87,7 @@
               <form method="post" action="mail.php" id="formid">
 
                 <div class="form-group">
-                  <input type="text" class="form-control" name="name" placeholder="first name" required="">
+                  <input type="text" class="form-control" name="name" placeholder="Prénom" required="">
                 </div>
 
                 <div class="form-group">
@@ -100,7 +100,7 @@
                 </div>
 
                 <div class="center-content">
-                  <input type="submit" value="Submit" class="btn btn-default">
+                  <input type="submit" value="Valider" class="btn btn-default">
                 </div>
               </form>
             </div>
