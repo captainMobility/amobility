@@ -11,8 +11,8 @@
                 <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
                   <div class="home-contact">
                     <div class="input-group">
-                      <input type="text" class="form-control" placeholder="Enter your email address" />
-                      <input type="submit" class="form-control" value="Use It Free" />
+                      <input type="text" class="form-control" placeholder="Entrer votre adresse mail" />
+                      <input type="submit" class="form-control" value="Valider" />
                     </div>
                      <!-- /input-group --> 
                   </div>
