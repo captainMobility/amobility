@@ -10,7 +10,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="#">
-        <img src="assets/images/logo.png" alt="Logo" />
+        <img src="assets/images/mini-logo.png" alt="Logo" width="50%"/>
       </a>
     </div>
 

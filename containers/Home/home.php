@@ -42,7 +42,7 @@
               </div>
               <div class="single_service_right">
                 <h2>ETUDES</h2>
-                <p>Une étude faites sur mesure en fonction de vos besoins</p>
+                <p>Une étude faite sur mesure en fonction de vos besoins</p>
               </div>
             </div>
           </div>

@@ -586,6 +586,11 @@ textarea::-ms-input-placeholder
 	margin-top:-5px;	
 }
 
+.navbar-brand > img {
+    bottom: 20px;
+    position: relative;
+}
+
 
 /*For Home Section*/
 .home{
