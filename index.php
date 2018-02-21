@@ -35,6 +35,7 @@
   <link rel="stylesheet" href="assets/css/responsive.css" />
 
   <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+  <script src="services/sendMail/sendMail.js"></script>
 </head>
 
 <body>

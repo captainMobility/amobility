@@ -12,22 +12,22 @@
   $message = '<div style="width: 100%; text-align: center; font-weight: bold"> Bonjour'.$_POST['name'].'! \n'.$_POST['message'].'</div>';
  
        
-                 if(mail($to, $subject, $message, $headers))
-                  {
-                    ?>
- 
-                      <script languag="javascript" >alert("Votre message a bien été envoyé ");</script>
- 
-                      <?php
-                  }
-                  else // Non envoyé
-                  {
-                    ?>
-                      <script languag="javascript">alert("Votre message n'a pas pu être envoyé");</script>
- 
- 
-                       <?php
-                 }
-                header('Location: monformulaire.php');
+  if(mail($to, $subject, $message, $headers))
+  {
+    ?>
+
+      <script languag="javascript" >alert("Votre message a bien été envoyé ");</script>
+
+      <?php
+  }
+  else // Non envoyé
+  {
+    ?>
+      <script languag="javascript">alert("Votre message n'a pas pu être envoyé");</script>
+
+
+        <?php
+  }
+header('Location: monformulaire.php');
  
 ?>

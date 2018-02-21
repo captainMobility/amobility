@@ -84,23 +84,23 @@
         <div class="contact_content">
           <div class="col-md-6">
             <div class="single_left_contact">
-              <form method="post" action="mail.php" id="formid">
+              <form id="formid">
 
                 <div class="form-group">
-                  <input type="text" class="form-control" name="name" placeholder="Prénom" required="">
+                  <input type="text" class="form-control" name="name" placeholder="Prénom" id="prenomIdFormContact" required="">
                 </div>
 
                 <div class="form-group">
-                  <input type="email" class="form-control" name="email" placeholder="Email" required="">
+                  <input type="email" class="form-control" name="email" placeholder="Email" id="mailIdFormContact" required="">
                 </div>
 
 
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="8" placeholder="Message"></textarea>
+                  <textarea class="form-control" name="message" rows="8" id="messageIdFormContact" placeholder="Message"></textarea>
                 </div>
 
                 <div class="center-content">
-                  <input type="submit" value="Valider" class="btn btn-default">
+                  <input type="submit" value="Valider" class="btn btn-default" onclick="sendMail()">
                 </div>
               </form>
             </div>
