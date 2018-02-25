@@ -100,7 +100,7 @@
                 </div>
 
                 <div class="center-content">
-                  <input type="submit" value="Valider" class="btn btn-default" onclick="sendMail()">
+                  <input type="submit" value="Valider" class="btn btn-default" id="sendMailIdButton">
                 </div>
               </form>
             </div>
